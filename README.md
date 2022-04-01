@@ -9,17 +9,14 @@ In this challenge, as a data scientist of a bank, I was asked to analyze the pas
 ### Objective is to build a machine learning model to predict whether the customer will churn or not in the next six months.
 
 ## Findings
-* The proportion of female customers churning is greater than that of male customers. Bank should rollout promotions to retain female customers.
+* The proportion of female customers churning is greater than that of male customers. 
 * Those with 5L-10L salary churn less compared to other income bands.
 * Naturally customers belonging to poor credit category are more likely to churn.
-* Customers with more product holdings are less likely to churn. so, the Bank needs to focus on encouraging more customers to have more product holdings which will discourage the customers to leave the service.
+* Customers with more product holdings are less likely to churn.
 * Unsurprisingly those who did not make any transaction in the last 3 months are likely to churn
 * Interestingly, no difference in the churn rate for those having credit card and not.
 * The older customers are churning more than the younger ones. The bank may need to review their target market or review the strategy for retention between the different age groups.
 * Even customers have been associated with the bank for about 4 years are leaving.
-
-A cause of concern, overall proportion of inactive members is quite high suggesting that the bank may need a program implemented to turn this group to active customers as this will definitely have a positive impact on the customer churn.
-We note
 
 ## Feature Importance
 The RFE has helped us select the following features as important features giving them rank 1:
@@ -40,4 +37,12 @@ It is also doing a good work in predictingg the False Negatives.
 ## Summarization
 In summary, our best submission was by training a Logistic regression model, with over samplin data and with the feature engineering steps described above.
 
+## Recommendation
+* Bank should rollout promotions to retain female customers.
+* Create awareness on importance of maintaining a healthy credit score.
+* Bank needs to focus on encouraging more customers to have more product holdings which will discourage the customers to leave the service.
+* Customized financial advisory and investment offerings to different segments of customers
+* Identify why aged customers are leaving and improve services accordingly.
+
+A cause of concern, overall proportion of inactive members is quite high suggesting that the bank may need a program to turn this group to active customers as this will definitely have a positive impact on the customer churn.
 
