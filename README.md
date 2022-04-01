@@ -1,7 +1,8 @@
-# Analytics Vidya-JOB-A-THON---March-2022
-This repository contains my approach for Churn Prediction for AV job-a-thon march 2022
-
 # Churn Prediction
+
+## Analytics Vidya-JOB-A-THON---March-2022
+This repository contains my approach for Churn Prediction for AV job-a-thon march 2022
+### RANK on Private Leadership board 69.
 
 ## Understanding Problem Statement
 Decreasing the Customer Churn is a key goal for any business. Predicting Customer Churn (also known as Customer Attrition) represents an additional potential revenue source for any business. Customer Churn impacts the cost to the business. Higher Customer Churn leads to loss in revenue and the additional marketing costs involved with replacing those customers with new ones.
